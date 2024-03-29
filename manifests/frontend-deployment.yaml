@@ -27,7 +27,7 @@ spec:
         imagePullPolicy: Always
         env:
           - name: REACT_APP_APIHOSTPORT
-            value: $API_ELB_PUBLIC_FQDN
+            value: a1562800e89934af286cf25f961b61ed-1419882775.ap-south-1.elb.amazonaws.com
         ports:
         - containerPort: 8080
         livenessProbe:
