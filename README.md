@@ -4,7 +4,7 @@
 
 ## Architecture Diagram
 <div align="center">
-  <img src="./Documents/architecture-diagram.gif" alt="Logo" width="100%" height="100%">
+  <img src="./Documents/voting-app-deployment-architecture.png" alt="Logo" width="100%" height="100%">
 </div>
 
 ## Kubernetes Resources
