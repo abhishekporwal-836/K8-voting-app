@@ -1,7 +1,7 @@
 # Web Voting App Deployment Using AWS EKS
 
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
+
+[![Video Tutorial](https://img.youtube.com/vi/pTmIoKUeU-A/0.jpg)](https://youtu.be/pTmIoKUeU-A)
 
 # Implementation PDF: [Click here! ](https://drive.google.com/file/d/1TUlL7gFjL09gjHvrMJoXOIZgbDGjVR9s/view?usp=sharing)
 
