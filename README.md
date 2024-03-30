@@ -1,10 +1,11 @@
 # Web Voting App Deployment Using AWS EKS
 
-## Technical Stack
+# Implementation PDF: [Click here! ](https://drive.google.com/file/d/1TUlL7gFjL09gjHvrMJoXOIZgbDGjVR9s/view?usp=sharing)
 
-- **Frontend**: The frontend of this application is built using React and JavaScript. It provides a responsive and user-friendly interface for casting votes.
-
-- **Backend and API**: The backend of this application is powered by Go (Golang). It serves as the API handling user voting requests. MongoDB is used as the database backend, configured with a replica set for data redundancy and high availability.
+## Architecture Diagram
+<div align="center">
+  <img src="./Documents/architecture-diagram.gif" alt="Logo" width="100%" height="100%">
+</div>
 
 ## Kubernetes Resources
 
