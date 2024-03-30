@@ -1,10 +1,13 @@
 # Web Voting App Deployment Using AWS EKS
 
-# Implementation PDF: [Click here! ](https://drive.google.com/file/d/1TUlL7gFjL09gjHvrMJoXOIZgbDGjVR9s/view?usp=sharing)
+## Implementation Video attatched below: 
+[![Video Tutorial](https://img.youtube.com/vi/pTmIoKUeU-A/0.jpg)](https://youtu.be/pTmIoKUeU-A)
+
+## Implementation PDF: [Click here! ](https://drive.google.com/file/d/1TUlL7gFjL09gjHvrMJoXOIZgbDGjVR9s/view?usp=sharing)
 
 ## Architecture Diagram
 <div align="center">
-  <img src="./Documents/architecture-diagram.gif" alt="Logo" width="100%" height="100%">
+  <img src="./Documents/voting-app-deployment-architecture.png" alt="Logo" width="100%" height="100%">
 </div>
 
 ## Kubernetes Resources
